@@ -1,0 +1,7 @@
+* Global Temperatures Heat Map
+
+** Description
+This chart shows variances in monthly temperatures relative to an average computed from 1951-1980. Tooltips provide exact data, while a legend provides context for the heat map. The 1700's look like a wild time to be alive, or perhaps their thermometers weren't well calibrated. :)
+
+** View Project 
+http://www.fugalfunkster.com/globalTemperaturesHeatMap/
